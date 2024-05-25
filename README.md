@@ -1,5 +1,5 @@
 Marija Zaharieva 225088
-2. ![image](https://github.com/marijazaharieva/SI_2024_lab2_225088/assets/116587199/a9cfa895-03a5-4026-afdf-e01badce1b13)
+2. ![image](https://github.com/marijazaharieva/SI_2024_lab2_225088/assets/116587199/dc225890-f181-4929-8d4b-20fb8168867e)
 
 3. Цитогенската комплексност е 10
       Формула 1: E-N+2 -> E=34, N=26 -> 34-26+2 = 10
@@ -7,7 +7,7 @@ Marija Zaharieva 225088
       Формула 3: Предикатни јазли има 7 од if i 2 од for -> 7+2+1 = 10
    
 4.Every branch критериум
-![image](https://github.com/marijazaharieva/SI_2024_lab2_225088/assets/116587199/ece3b513-cac4-41fa-a363-6e301bb23e93)
+![image](https://github.com/marijazaharieva/SI_2024_lab2_225088/assets/116587199/1f7499e5-79bd-4090-b417-189f94e7c3fd)
 
 5.Multiple condition критериум
    Потребно е цената да е поголема од 300, попустот да е поголем од 0 и баркодот да почнува на 0 
